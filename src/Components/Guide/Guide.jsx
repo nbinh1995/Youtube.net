@@ -367,14 +367,14 @@ const Guide = () => {
                 Author: <span className={styles["txt--name"]}>Larbi Sahli</span>
               </div>
               <div className={styles.txt}>
-                Source code:{" "}
+                website:{" "}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
                   className={styles.tt}
-                  href="https://github.com/larbisahli/youtube-clone-spa"
+                  href="https://itube.tk"
                 >
-                  YouTube-Clone
+                  Youtube-clone
                 </a>
               </div>
               <div
@@ -382,9 +382,9 @@ const Guide = () => {
                 rel="noopener noreferrer"
                 className={`${styles.txt} ${styles["txt--x"]}`}
               >
-                GitHub:{" "}
-                <a className={styles.tt} href="https://github.com/larbisahli">
-                  larbisahli
+                Our site:{" "}
+                <a className={styles.tt} href="https://raveeshportal.tk">
+                  Raveesh Nilaweera 
                 </a>
               </div>
             </div>
