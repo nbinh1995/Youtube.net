@@ -45,18 +45,18 @@ const initialState = {
   accounts: [
     {
       img:
-        "https://yt3.ggpht.com/a-/AAuE7mCD0A834-oe9m44YrvgjigbMXwRc254LoMuOkqDJw=s88-c-k-c0xffffffff-no-rj-mo",
-      name: "Larbi Sahli",
-      email: "larbisahli1905@gmail.com",
+        "https://i.pinimg.com/736x/cf/e6/52/cfe6528a11a46a3c5ba9e3c4cb1fcf4c.jpg",
+      name: "Raveesh Nilaweera",
+      email: "info@raveesh.com",
       subs: 666,
       isCurrent: true,
       accId: 1,
     },
     {
       img:
-        "https://yt3.ggpht.com/-xlewnrG6-ZM/AAAAAAAAAAI/AAAAAAAAAAA/EX-SIc55NtE/s108-c-k-no-mo-rj-c0xffffff/photo.jpg",
-      name: "Heaving Rhythm AMV",
-      email: "fakemail@gmail.com",
+        "https://i.pinimg.com/736x/cf/e6/52/cfe6528a11a46a3c5ba9e3c4cb1fcf4c.jpg",
+      name: "Rameesha Nilaweera",
+      email: "rameesha@raveesh.com",
       subs: 2,
       isCurrent: false,
       accId: 2,
