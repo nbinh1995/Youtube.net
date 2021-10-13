@@ -673,7 +673,7 @@ const Watch = () => {
                 width={"40"}
                 height={"40"}
                 src={
-                  "https://yt3.ggpht.com/a-/AAuE7mCD0A834-oe9m44YrvgjigbMXwRc254LoMuOkqDJw=s88-c-k-c0xffffffff-no-rj-mo"
+                  "https://i.pinimg.com/736x/cf/e6/52/cfe6528a11a46a3c5ba9e3c4cb1fcf4c.jpg"
                 }
                 id={""}
                 alt={""}
