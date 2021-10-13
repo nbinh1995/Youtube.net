@@ -361,10 +361,10 @@ const Guide = () => {
             <div className={styles.about}>
               <div className={styles.txt}>
                 Cloning YouTube with pure sass, Javascript and React Framework
-                2020.
+                2021.
               </div>
               <div className={styles.txt}>
-                Author: <span className={styles["txt--name"]}>Larbi Sahli</span>
+                Author: <span className={styles["txt--name"]}>Raveesh Nilaweera</span>
               </div>
               <div className={styles.txt}>
                 website:{" "}
